@@ -44,7 +44,7 @@ let g:UltiSnipsJumpBackwardTrigger="<S-tab>"
 " kite
 "let g:kite_supported_languages = ['*']
 let g:coc_global_extensions = [
-      \ 'coc-tsserver'
+      \ 'coc-python'
       \ ]
 " tmux navigator
 let g:tmux_navigator_no_mappings = 1

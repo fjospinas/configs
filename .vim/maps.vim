@@ -9,12 +9,11 @@ nnoremap <Leader>TT :TestSuite<CR>
 nnoremap <Leader>> 10<C-w>>
 nnoremap <Leader>< 10<C-w><
 
-" quick semi
-nnoremap <Leader>; $a;<Esc>
-
+" quit nvim
 nnoremap <Leader>w :w<CR>
 nnoremap <Leader>q :q<CR>
 nnoremap <Leader>Q :q!<CR>
+
 " shorter commands
 cnoreabbrev tree NERDTreeToggle
 cnoreabbrev blame Gblame
